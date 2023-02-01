@@ -33,6 +33,8 @@ https://github.com/WillDev12/EZmod-MC/releases/download/EZmodMC/EZmod-Installer-
             *  Backup system
             *  Backup saves
             *  One click send
+            *  Backup importation
+            *  Backup exportation
         *  Backups and files
             *  Built-in file explorer
             *  Mass add/delete

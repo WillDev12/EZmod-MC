@@ -1,8 +1,22 @@
-# EZmod MC v1.0.5
+<p align="center">
+   <a href="https://github.com/WillDev12/EZmod-MC">
+   <img src="https://github.com/WillDev12/EZmod-MC/blob/main/Minecraft-Folder-icon.png" width="250" height="250"/>
+</p>
 
-EZmod is a program that makes the modding process for
+<p align="center">
+EZmod-MC v1.0.0
+</p><br><br>
 
-Minecraft a whole lot easier.
+<p align="center">
+   <a href="https://github.com/WillDev12">
+      <img src="https://img.shields.io/github/followers/WillDev12?color=success&label=willdev12&logo=github&style=for-the-badge">
+   <a href="https://github.com/WillDev12/EZmod-MC">
+      <img src="https://img.shields.io/github/watchers/WillDev12/EZmod-MC?logo=git&style=for-the-badge">
+   <a href="https://github.com/WillDev12/EZmod-MC">
+      <img src="https://img.shields.io/github/forks/WillDev12/EZmod-MC?color=green&logo=git&style=for-the-badge">
+   <a href="https://github.com/WillDev12/EZmod-MC/stargazers">
+      <img src="https://img.shields.io/github/stars/WillDev12/EZmod-MC?color=yellow&logo=git&style=for-the-badge">
+</p>
 
 # Installation
 

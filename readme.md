@@ -12,7 +12,7 @@ EZmod-MC v1.0.0
       <img src="https://img.shields.io/github/followers/WillDev12?color=success&label=willdev12&logo=github&style=for-the-badge">
    <a href="https://github.com/WillDev12/EZmod-MC">
       <img src="https://img.shields.io/github/watchers/WillDev12/EZmod-MC?logo=git&style=for-the-badge">
-   <a href="https://github.com/WillDev12/EZmod-MC">
+   <a href="https://github.com/WillDev12/EZmod-MC/network/members">
       <img src="https://img.shields.io/github/forks/WillDev12/EZmod-MC?color=green&logo=git&style=for-the-badge">
    <a href="https://github.com/WillDev12/EZmod-MC/stargazers">
       <img src="https://img.shields.io/github/stars/WillDev12/EZmod-MC?color=yellow&logo=git&style=for-the-badge">
